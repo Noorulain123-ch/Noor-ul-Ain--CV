@@ -17,16 +17,12 @@ Soft Skills: Problem-Solving, Critical Thinking, Team Collaboration, Continuous 
 
 ##  Projects
 
-* 🔹 Basic web development projects (HTML, CSS, JavaScript)
-* 🔹 Problem-solving programs in Java and C++
-* 🔹 Academic projects related to Software Engineering
+*  Basic web development projects (HTML, CSS, JavaScript)
+*  Problem-solving programs in Java and C++
+*  Academic projects related to Software Engineering
 
 ##  Objective
 
 To secure an internship opportunity in Software Engineering where I can gain practical experience, improve my technical skills, and contribute to meaningful projects.
 
-
-
----
-
-⭐ I am a motivated learner, always eager to grow and take on new challenges in the field of Software Engineering.
+ I am a motivated learner, always eager to grow and take on new challenges in the field of Software Engineering.
